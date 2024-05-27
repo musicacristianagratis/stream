@@ -810,4 +810,5 @@ function refreshCoverForHistory(song, artist, index) {
  $("#stream1").icast({
 URL: "https://stream.zeno.fm/efy4auvgp9duv",
 version: "icecast",
+logo: "https://i.postimg.cc/x84SwB7c/cover-radio-cristiana-01.jpg",     
 })

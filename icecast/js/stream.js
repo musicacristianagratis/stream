@@ -312,7 +312,7 @@ function refreshCoverForHistory(song, artist, index) {
             type: "/;type=mp3",
             streampath: "/stream?icy=http",
             cors: "",
-            logo: "img/logo.png",
+            logo: "https://i.postimg.cc/x84SwB7c/cover-radio-cristiana-01.jpg",
             servertitle: "My Radio Title", //For Shoutcast v2 server
             show_listeners: true,    
             src: "",

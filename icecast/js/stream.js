@@ -316,7 +316,7 @@ function refreshCoverForHistory(song, artist, index) {
             servertitle: "My Radio Title", //For Shoutcast v2 server
             show_listeners: true,    
             src: "",
-            volume: 0.5,            
+            volume: 0.9,            
             autoplay: false
         }, options);
         var thisObj;

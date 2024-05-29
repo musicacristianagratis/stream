@@ -807,4 +807,7 @@ function refreshCoverForHistory(song, artist, index) {
     };
 
   })(jQuery);
-
+$("#stream1").icast({
+URL: "https://stream.zeno.fm/efy4auvgp9duv",
+version: "icecast",
+})

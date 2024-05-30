@@ -47,7 +47,7 @@ body {
     min-height: 338px;
     position: absolute;
      background-color: rgba(0,0,0,0.0);
-    z-index: 2;
+    z-index: -12;
 }
 
 .web-player {

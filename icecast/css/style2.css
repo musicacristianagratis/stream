@@ -81,8 +81,9 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     border-radius: 10px;
-  display:none!important 
+    display:none!important 
     transition: background-image 1s;
+    z-index: -12;
 }
 
 

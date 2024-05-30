@@ -24,6 +24,7 @@ body {
     background-size: cover;
     transition: background-image 1s;
     background-attachment: fixed;
+    z-index: -1;    
 }
 
 /* FONDO DESENFOQUE */

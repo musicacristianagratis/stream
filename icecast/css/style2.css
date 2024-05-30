@@ -63,7 +63,7 @@ body {
 .cover-album {
     max-width: 604px;
     margin: auto;
-    background: url('../img/cover1.png') no-repeat;
+    background: url() no-repeat;
     background-size: cover;
     border: 2px solid #fefefe;
     box-shadow: 0px 5px 10px 3px rgba(0, 0, 0, 0.4);

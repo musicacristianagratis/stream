@@ -43,8 +43,8 @@ body {
 }
 
 .bg-mask {
-    min-width: 100%;
-    min-height: 100%;
+    min-width: 338px;
+    min-height: 338px;
     position: absolute;
      background-color: rgba(0,0,0,0.0);
     z-index: 2;
